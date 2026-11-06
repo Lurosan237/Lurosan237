@@ -65,8 +65,11 @@ When I'm not coding, I'm reading a good story or telling one. A good story has a
 ### 📈 Stats
 
 <p>
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lurosan237&show_icons=true&hide_border=true&count_private=true&theme=transparent">
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurosan237&layout=compact&hide_border=true&theme=transparent&exclude_repo=swift-book,oc-install-ide-cours,kuiteul.github.io">
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lurosan237&theme=transparent">
+  <img height="170" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lurosan237&theme=transparent">
+</p>
+<p>
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Lurosan237&theme=transparent&hide_border=true">
 </p>
 
 ---
