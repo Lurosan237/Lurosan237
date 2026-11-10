@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Hi, I'm Clever. Maths student and self-taught developer.">
+  <rect width="1200" height="300" rx="16" fill="#0a0f1c"/>
+  <path d="M0 75H1200M0 150H1200M0 225H1200M150 0V300M300 0V300M450 0V300M600 0V300M750 0V300M900 0V300M1050 0V300" fill="none" stroke="#222c42" stroke-width="1"/>
+
+  <!-- spinning circles -->
+  <circle cx="225" cy="150" r="104" fill="none" stroke="#2c3a58" stroke-width="2"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 225 150" to="360 225 150" dur="8s" repeatCount="indefinite"/>
+    <line x1="225" y1="150" x2="329" y2="150" stroke="#8e9ab3" stroke-width="2"/>
+    <circle cx="329" cy="150" r="32" fill="none" stroke="#2c3a58" stroke-width="2"/>
+    <circle cx="329" cy="150" r="7" fill="#3fd6a6"/>
+  </g>
+
+  <!-- the C for Clever draws itself -->
+  <path d="M289 86A90 90 0 1 0 289 214" fill="none" stroke="#4da3ff" stroke-width="16" stroke-linecap="round" stroke-dasharray="380" stroke-dashoffset="380">
+    <animate attributeName="stroke-dashoffset" values="380;0;0;380" keyTimes="0;.45;.85;1" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="430" y="135" fill="#e6ecf7" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-style="italic">Hi, I'm Clever</text>
+  <text x="432" y="200" fill="#4da3ff" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="31">f(t) = Σ c<tspan dy="7" font-size="20">n</tspan><tspan dy="-7"> e</tspan><tspan dy="-13" font-size="20">2πint</tspan></text>
+  <text x="432" y="248" fill="#8e9ab3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27">maths student · self-taught developer</text>
+</svg>

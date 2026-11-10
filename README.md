@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Clever 👋</h1>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Hi, I'm Clever">
+</p>
 
 <p align="center">
   <i>(Lurosan online)</i><br>
